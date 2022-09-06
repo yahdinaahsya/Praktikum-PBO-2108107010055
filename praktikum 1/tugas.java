@@ -1,4 +1,3 @@
-package tugas;
 import java.util.Scanner;
 public class Tugas {
     public static void main(String[] args) {
@@ -11,7 +10,7 @@ public class Tugas {
       int diskon = jlh * 15/100;
       int hasil = harga-diskon;
       
-      System.out.println("Harga setelah didiskon 15% adalah " +hasil); 
+      System.out.println("Harga setelah di diskon 15% adalah " +hasil); 
     }
     
 }
