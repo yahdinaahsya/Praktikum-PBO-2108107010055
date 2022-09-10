@@ -1,5 +1,3 @@
-package Tugas;
-
 public class soal5 {
     public static void main(String args[]) {
         // parameter variabel angka agar langsung mulai dari angka 2
