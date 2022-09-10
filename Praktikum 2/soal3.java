@@ -1,5 +1,3 @@
-package Tugas;
-
 public class soal3 {
     public static void main(String arg[]) {
         //perulangan untuk banyak baris yang akan terbentuk
