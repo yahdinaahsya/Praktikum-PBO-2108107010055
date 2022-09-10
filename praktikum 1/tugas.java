@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Tugas {
+public class tugas {
     public static void main(String[] args) {
       Scanner masuk = new Scanner(System.in);
       System.out.print("Harga : ");
@@ -8,7 +8,7 @@ public class Tugas {
       int x = masuk.nextInt();
       int jlh = x*harga;
       int diskon = jlh * 15/100;
-      int hasil = harga-diskon;
+      int hasil = jlh-diskon;
       
       System.out.println("Harga setelah di diskon 15% adalah " +hasil); 
     }
